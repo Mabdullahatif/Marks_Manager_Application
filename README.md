@@ -8,7 +8,7 @@
 - [Global Variables](#global-variables)
 - [Main Function](#main-function)
 - [How to Use](#how-to-use)
-- [Contributors](#Contributing)
+- [Contributing](#Contributing)
 - [Initial Contributors](#initial-contributor)
 - [Sample Visuals](#sample-visuals)
 
